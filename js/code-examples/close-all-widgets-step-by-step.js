@@ -1,4 +1,4 @@
-// = = = = = = = = = = = = = = = = = = = =
+index.html// = = = = = = = = = = = = = = = = = = = =
 // Step 1: collapse/expand only news widget
 // rename variable name (newsWidget -> widget) to make it look more general
 // = = = = = = = = = = = = = = = = = = = =

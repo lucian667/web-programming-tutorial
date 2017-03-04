@@ -5,8 +5,8 @@ Web Site example using css layout and basic java script utilities
 
 Live examples on [https://rawgit.com](https://rawgit.com): 
 
-- [x] [HTML Preview](https://rawgit.com/nmatei/web-programming-tutorial/master/index.html)
-- [x] [Contacts](https://rawgit.com/nmatei/web-programming-tutorial/master/contacts.html)
+- [x] [HTML Preview](https://rawgit.com/lucian667/web-programming-tutorial/master/index.html)
+- [x] [Contacts](https://rawgit.com/lucian667/web-programming-tutorial/master/contacte.html)
 - [x] [Playing Cards Template](https://rawgit.com/nmatei/web-programming-tutorial/master/templates/cards.html)
 - [x] [Bootstrap Example](https://rawgit.com/nmatei/web-programming-tutorial/master/index-bootstrap.html)
 
